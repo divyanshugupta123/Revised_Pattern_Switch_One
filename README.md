@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/1901-find-a-peak-element-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0069-sqrtx) |
+| [3875-construct-uniform-parity-array-i](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/3875-construct-uniform-parity-array-i) |
 ## Newton's Method
 |  |
 | ------- |
