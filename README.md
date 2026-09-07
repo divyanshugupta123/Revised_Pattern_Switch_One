@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0240-search-a-2d-matrix-ii) |
+| [0275-h-index-ii](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0275-h-index-ii) |
 | [0410-split-array-largest-sum](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0704-binary-search) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0240-search-a-2d-matrix-ii) |
+| [0275-h-index-ii](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0275-h-index-ii) |
 | [0410-split-array-largest-sum](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0704-binary-search) |
