@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0633-sum-of-square-numbers](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0633-sum-of-square-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0069-sqrtx) |
+| [0633-sum-of-square-numbers](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0633-sum-of-square-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/3875-construct-uniform-parity-array-i) |
 ## Newton's Method
 |  |
