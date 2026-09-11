@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0410-split-array-largest-sum) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0016-3sum-closest) |
+| [0268-missing-number](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0410-split-array-largest-sum) |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0633-sum-of-square-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/3875-construct-uniform-parity-array-i) |
 ## Newton's Method
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -126,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0278-first-bad-version) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
