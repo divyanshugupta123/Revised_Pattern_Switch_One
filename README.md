@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0540-single-element-in-a-sorted-array) |
@@ -48,12 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0633-sum-of-square-numbers) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0016-3sum-closest) |
 | [0268-missing-number](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0540-single-element-in-a-sorted-array) |
@@ -141,5 +145,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
