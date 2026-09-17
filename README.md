@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0875-koko-eating-bananas) |
+| [0888-fair-candy-swap](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0888-fair-candy-swap) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0016-3sum-closest) |
 | [0268-missing-number](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0349-intersection-of-two-arrays) |
+| [0888-fair-candy-swap](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0888-fair-candy-swap) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0875-koko-eating-bananas) |
+| [0888-fair-candy-swap](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0888-fair-candy-swap) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -151,4 +154,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0560-subarray-sum-equals-k) |
+| [0888-fair-candy-swap](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0888-fair-candy-swap) |
 <!---LeetCode Topics End-->
