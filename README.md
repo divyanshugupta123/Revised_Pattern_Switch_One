@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/2643-row-with-maximum-ones) |
 | [3875-construct-uniform-parity-array-i](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/3875-construct-uniform-parity-array-i) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -157,4 +158,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0560-subarray-sum-equals-k) |
 | [0888-fair-candy-swap](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/0888-fair-candy-swap) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/divyanshugupta123/Revised_Pattern_Switch_One/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 <!---LeetCode Topics End-->
